@@ -132,6 +132,7 @@ function TopBar({ pages }) {
             }}
           >
             <img
+              className='logoo'
               width='100px'
               src={Logo}
               alt="logo"
